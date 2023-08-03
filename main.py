@@ -6,7 +6,7 @@ print()
 print("In this game, the goal is to guess the number with the less attemps as possible")
 print("Quick reminder that the number IS NOT in the negative")
 print()
-print("goodluck :)")
+print("Good luck :)")
 print()
 print()
 
