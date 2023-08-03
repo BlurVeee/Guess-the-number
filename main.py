@@ -1,7 +1,7 @@
 import random
 Correct_Number = (random.randint(1, 1000000))
 
-print("Welcome to my Guess The Number Game")
+print("Welcome to my Guess The Number")
 print()
 print("In this game, the goal is to guess the numbers with the less attemps as possible")
 print("Quick reminder that the number IS NOT in the negative")
@@ -17,11 +17,11 @@ while True:
     print()
     print("CORERECT,", Correct_Number, "was indeed the random Number")
     if attempts == 1:
-      print(("GOOD JOB. You did it in", attempts, "attemps"))
+      print(("GOOD JOB. You did it in", attempts, "attempts"))
     elif attempts <= 20:
       print("that very good you did it in only", attempts, "attemps")
     else:
-      print("You, could have been better, you did it in", attempts, "attemps")
+      print("You, could have been better, you did it in", attempts, "attempts")
     break
     exit()
 
