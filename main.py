@@ -3,7 +3,7 @@ Correct_Number = (random.randint(1, 1000000))
 
 print("Welcome to my Guess The Number Game")
 print()
-print("In this game, the goal is to guess the number with the less attemps as possible")
+print("In this game, the goal is to guess the numbers with the less attemps as possible")
 print("Quick reminder that the number IS NOT in the negative")
 print()
 print("Good luck :)")
