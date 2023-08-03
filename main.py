@@ -19,7 +19,7 @@ while True:
     if attempts == 1:
       print(("GOOD JOB. You did it in", attempts, "attempts"))
     elif attempts <= 20:
-      print("that very good you did it in only", attempts, "attemps")
+      print("that very good you did it in only", attempts, "attempts")
     else:
       print("You, could have been better, you did it in", attempts, "attempts")
     break
